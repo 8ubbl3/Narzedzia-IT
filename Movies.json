@@ -1,0 +1,59 @@
+{
+"Movie/Show" : [
+		{ "Title" : "Star Wars: A New Hope",
+		 "Release year" : "1977",
+		 "Type" : "Sci-fi",
+		 "Rating (1-10)" : "10",
+		 "Main actor" : "Mark Hamill"
+		},
+
+		{ "Title" : "Loki season 1",
+		 "Release year" : "2021",
+		 "Type" : "Action",
+		 "Rating (1-10)" : "10",
+		 "Main actor" : "Tom Hiddleston"
+		},
+
+		{ "Title" : "Mission Impossible: Dead Reckoning part II",
+		 "Release year" : "2025",
+		 "Type" : "Action",
+		 "Rating (1-10)" : "8",
+		 "Main actor" : "Tom Cruise"
+		},
+		
+		{ "Title" : "Project Hail Mary",
+		 "Release year" : "2026",
+		 "Type" : "Sci-fi",
+		 "Rating (1-10)" : "9",
+		 "Main actor" : "Ryan Gosling"
+		},
+
+		{ "Title" : "Spider-Man: Brand New Day",
+		 "Release year" : "2026",
+		 "Type" : "Adventure",
+		 "Rating (1-10)" : "9",
+		 "Main actor" : "Tom Holland"
+		},
+
+		{ "Title" : "Indiana Jones and the Raiders of the Lost Ark",
+		 "Release year" : "1981",
+		 "Type" : "Action",
+		 "Rating (1-10)" : "9",
+		 "Main actor" : "Harrison Ford"
+		},
+
+		{ "Title" : "Alien",
+		 "Release year" : "1979",
+		 "Type" : "Sci-fi",
+		 "Rating (1-10)" : "8",
+		 "Main actor" : "Sigourney Weaver"
+		},
+
+		{ "Title" : "Lord of the Rings: The Fellowshiip of the Ring",
+		 "Release year" : "2001",
+		 "Type" : "Fantasy",
+		 "Rating (1-10)" : "10",
+		 "Main actor" : "Elijah Wood"
+		}
+	]
+}
